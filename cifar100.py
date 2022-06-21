@@ -187,7 +187,7 @@ def testClassess():
 
 
 if __name__ == "__main__":
-    train(100)
+    train(5)
     print("Finished Training")
 
     testClassess()
